@@ -1,4 +1,4 @@
-package programs1_10;
+package introduction;
 
 public class Pr_2 {
 
